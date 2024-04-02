@@ -18,7 +18,7 @@ Evento exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt=" width="100% src="![alt text](<../assets/Readme devlinks.jpg>)">
+  <img alt=" width="100% src="./assets/Readme devlinks.jpg">
 </p>
 
 ## 🚀 Tecnologias
